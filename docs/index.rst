@@ -3,8 +3,7 @@ How to Update AVG Driver?
 
 
 .. toctree::
-<meta name="google-site-verification" content="PkOcJ7MGTo64kIFUiueUfkoZR7zBlaDUXcYYdm2aZoc" />
-   :maxdepth: 2
+  :maxdepth: 2
    :caption: Contents:
 
 
