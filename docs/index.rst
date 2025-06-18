@@ -4,6 +4,7 @@ How to Update AVG Driver?
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
+<meta name="msvalidate.01" content="78CF600A919012E8E5E8E326F92AF322" />
 
 For Update AVG Driver Click Here:
 -----------------------------
